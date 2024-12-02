@@ -119,6 +119,10 @@ legal_authorization:
   requires_uk_visa: "[Yes/No]"
   legally_allowed_to_work_in_uk: "[Yes/No]"
   requires_uk_sponsorship: "[Yes/No]"
+  india_work_authorization: "[Yes/No]"
+  requires_india_visa: "[Yes/No]"
+  requires_india_sponsorship: "[Yes/No]"
+  legally_allowed_to_work_in_india: "[Yes/No]"
 
 
 work_preferences:
